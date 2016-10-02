@@ -4,7 +4,7 @@ Notes from Calibrate Conference 2016 [https://www.calibratesf.com]
 ## Talks
 
 ### Welcome
-**Sonya Green** [Calibrate, Program Director]
+**[Sonya Green](https://twitter.com/sundaykofax)** [[Calibrate](https://www.calibratesf.com), Program Director]
 
 General welcome, what the conference is, what it isn't. Of interest about Sonya, in 2 years she went from IC to VP of Engineering. She took on Program Director duties for this conference, this is the second year of Calibrate SF.
 
