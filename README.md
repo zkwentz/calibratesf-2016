@@ -60,7 +60,7 @@ Hack here is defined as _small bits of wisdom that pay unexpectedly high returns
 * Capture and synthesize your meeting notes, share with any and everyone.
 * Add an agenda item for squashing rumors to bi-weekly all-hands.
 * [Speech Skills Class](http://speechskills.com)
-* [Rand's Rubric for Leadership](https://todo.when.i.blog.is.posted)
+* [Rand's Rubric for Leadership](https://github.com/zkwentz/calibratesf-2016/blob/master/a_career_path.pdf)
 
 [Link to Slides](https://todo.when.slides.are.posted)
 
